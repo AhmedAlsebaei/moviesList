@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (4.10.1)
+  - PMSuperButton (3.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - PMSuperButton
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - PMSuperButton
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  PMSuperButton: 72105fef415890c8792a9e5a784f75c461066f8b
+
+PODFILE CHECKSUM: aa7ef2fee092e798967389eebd4067c780cbf7d2
+
+COCOAPODS: 1.10.1
